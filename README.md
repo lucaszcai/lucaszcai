@@ -1,5 +1,5 @@
 ![Matrix SVG](https://raw.githubusercontent.com/lucaszcai/lucaszcai/master/matrix.svg)
-### make code yes
+### i like to code sometimes
 
 <!--
 ![alt text](https://media.giphy.com/media/jluE44PLcQSli/giphy.gif)
