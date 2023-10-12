@@ -1,6 +1,4 @@
 ![Programming Gif](https://raw.githubusercontent.com/lucaszcai/lucaszcai/master/programminggif1.gif)
-## hi im lucas
-### i like to code sometimes
 
 <!--
 ![alt text](https://media.giphy.com/media/jluE44PLcQSli/giphy.gif)
